@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Personal Gallery",
+  "main": "init",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcomerc/Marcos_Gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcomerc/Marcos_Gallery/issues"
+  },
+  "homepage": "https://github.com/marcomerc/Marcos_Gallery#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}

@@ -1,5 +1,4 @@
 {
-  "start": "node index.js",
   "name": "ls",
   "version": "1.0.0",
   "description": "Personal Gallery",

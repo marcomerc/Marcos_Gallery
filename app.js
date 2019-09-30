@@ -16,7 +16,27 @@ app.get( "/",(req, res) => {
   res.render("main")
 })
 
-app.get("/pic1",(req,res)=>{
+app.get("/picture1",(req,res)=>{
+
+    res.render("pic1")
+})
+app.get("/picture2",(req,res)=>{
+
+    res.render("pic1")
+})
+app.get("/picture2",(req,res)=>{
+
+    res.render("pic1")
+})
+app.get("/picture2",(req,res)=>{
+
+    res.render("pic1")
+})
+app.get("/picture2",(req,res)=>{
+
+    res.render("pic1")
+})
+app.get("/picture2",(req,res)=>{
 
     res.render("pic1")
 })

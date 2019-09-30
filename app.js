@@ -15,6 +15,11 @@ app.get( "/",(req, res) => {
   console.log(__dirname)
   res.render("main")
 })
+
+app.get("/pic1",(req,res)=>{
+
+    res.render("pic1")
+})
 app.listen(port, () => {
   console.log("the port",process.env.PORT)
 })
